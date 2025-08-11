@@ -90,8 +90,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Collaborators
 
-Krishnamurthi Ramesh - [@krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
+Krishnamurthi - [@krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
+Vansh Angaria - [@Vansh-Angaria](https://github.com/VanshAngaria/ai-mock-interviewer)
 
-Project Link: [https://github.com/krishnamurthi-ramesh/ai-interview-assistant](https://github.com/krishnamurthi-ramesh/ai-interview-assistant)
