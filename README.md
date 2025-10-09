@@ -93,5 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Krishnamurthi Ramesh - [@krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
+Vansh Angaria - [@Vansh-Angaria](https://github.com/VanshAngaria/VanshAngaria)
+Gaurav Singh  - [@Gaurav-singh](https://github.com/gaurav4288)
 
 Project Link: [https://github.com/krishnamurthi-ramesh/ai-interview-assistant](https://github.com/krishnamurthi-ramesh/ai-interview-assistant)
